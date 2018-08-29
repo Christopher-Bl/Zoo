@@ -1,0 +1,6 @@
+Dogs are domesticated animals that people keep as pets.
+There are many breads of dogs:
+- Dalmation
+- Poodle
+- German Shepard
+- Goldern Retriever
